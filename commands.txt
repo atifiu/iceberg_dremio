@@ -1,0 +1,2 @@
+wget https://repo1.maven.org/maven2/org/apache/avro/avro-tools/1.10.2/avro-tools-1.10.2.jar
+java -jar avro-tools-1.10.2.jar tojson -pretty snap-418313975440962525-1-9f84a426-db4f-4959-b1a3-26ef1bcd419e.avro
